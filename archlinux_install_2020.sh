@@ -1,0 +1,3 @@
+--2020-06-27 10:50:28--  https://www.dropbox.com/s/3tpa3zvl3e86dbl/archlinux_install_2020.sh?dl=0
+Resolvendo www.dropbox.com... 2620:100:6024:1::a27d:4401, 162.125.68.1
+Conectando-se a www.dropbox.com|2620:100:6024:1::a27d:4401|:443... 
